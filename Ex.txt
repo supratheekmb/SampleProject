@@ -1,2 +1,5 @@
 A: Hi, How're you?
 B: I'm doing good, thank you.
+	How have you been here?
+A: I've come by car/
+
